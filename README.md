@@ -23,7 +23,7 @@ The implementation was completed using the OpenLane ASIC flow, covering RTL synt
 ## Physical Implementation
 
 <p align="center">
-<img src="images/final_routed_layout.png" width="700">
+<img src="async_after_rout.png" width="700">
 </p>
 
 <p align="center">
